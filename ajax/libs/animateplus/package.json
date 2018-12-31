@@ -5,7 +5,7 @@
   "filename": "animateplus.min.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bendc/animateplus.git"
+    "url": "https://github.com/bendc/animateplus.git"
   },
   "keywords": [
     "animate",
