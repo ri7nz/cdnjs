@@ -7,6 +7,7 @@
 [![devDependency Status](https://img.shields.io/david/dev/cdnjs/cdnjs.svg)](https://david-dm.org/cdnjs/cdnjs#info=devDependencies)
 [![tip for next commit](https://img.shields.io/badge/tip4commit-info-orange.svg)](https://tip4commit.com/github/cdnjs/cdnjs)
 [![Bountysource](https://www.bountysource.com/badge/team?team_id=11914&style=bounties_posted)](https://www.bountysource.com/teams/cdnjs/bounties?utm_source=cdnjs&utm_medium=shield&utm_campaign=bounties_posted)
+[![Community Discord](https://img.shields.io/discord/502173972264255488.svg?colorB=7289DA&label=community%20Discord&style=flat)](https://discord.gg/38ZpCFP)
 
 [![Throughput Graph](https://graphs.waffle.io/cdnjs/cdnjs/throughput.svg)](https://waffle.io/cdnjs/cdnjs/metrics/throughput)
 
