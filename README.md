@@ -55,6 +55,8 @@ To contribute to CDNJS, please refer to [CONTRIBUTING.md](https://github.com/cdn
 
 **Working on your first Pull Request?** Learn how from this *free* series: [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
+Want to chat with other users of the CDNJS service and some of the team before making your contribution? You can join our [community Discord](https://discord.gg/38ZpCFP) where you can post questions and chat with everyone.
+
 ## API usage
 
 See the [API page](https://cdnjs.com/api) on our website or read: [documents/api.md](https://github.com/cdnjs/cdnjs/blob/master/documents/api.md)
